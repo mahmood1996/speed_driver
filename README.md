@@ -70,7 +70,7 @@ I collaborated as part of the mobile team at **Troylab**, contributing to the de
 ## 📸 Screenshots
 
 <!-- Optional: add screenshots or a demo GIF -->
-| Home | Details | Profile |
+| Order Details | Orders | Home |
 |---|---|---|
 | ![screenshot1](screenshots/1.webp) | ![screenshot2](screenshots/2.webp) | ![screenshot3](screenshots/3.webp) |
 
